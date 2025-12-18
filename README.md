@@ -1,16 +1,17 @@
-## Hi there 👋
+## Que tal chavalada 👋
 
-<!--
-**adampda/adampda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En este perfil se irán subiendo repositorios con el progreso que haga en el mundo de la programación, tocando distintos lenguajes y librerias.
 
-Here are some ideas to get you started:
+## Repositorios destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[DAM-entregas](https://github.com/adampda/DAM_entregas.git)**  --> Buscar la carpeta con el nombre de Adam Perez. Son entregas de el grado superior de DAM.
+<br>
+- **[Musk-FullStack](https://github.com/adampda/Musk-mod-0.git)** --> En este repositorio se toca sobretodo JavaScript.
+<br>
+- **[Programacion-Entregas](https://github.com/adampda/programacion-entregas.git)** --> Buscar la carpeta de Adam Perez. En este repositorio hay más entregas del grado en DAM. 
+
+## Áreas de interés
+
++ *Ciberseguridad*
++ *Desarrollo backend*
++ *Analisis de datos*
