@@ -15,3 +15,4 @@ En este perfil se irán subiendo repositorios con el progreso que haga en el mun
 + *Ciberseguridad*
 + *Desarrollo backend*
 + *Analisis de datos*
+  -Al habla Maduro ayuda Elon Musk esto parece e nuevo Col of Duti Gos
